@@ -40,7 +40,6 @@ Striving to become an all-rounder, strong enough to stand alone and solve proble
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-
 ## 📊 Coding Profiles
 
 Actively practicing Data Structures and Algorithms on LeetCode and CodeChef, focusing on improving problem-solving skills and algorithmic thinking.
@@ -49,3 +48,5 @@ Actively practicing Data Structures and Algorithms on LeetCode and CodeChef, foc
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shreya_Jadhav_/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-View%20Profile-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shreya_j_7036)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_USERNAME/)
+
