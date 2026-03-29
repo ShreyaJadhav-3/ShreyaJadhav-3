@@ -1,3 +1,5 @@
+<img src="img.png" width="100%">
+
 ## ✨ About Me
 
 Hi, I'm Shreya. 
