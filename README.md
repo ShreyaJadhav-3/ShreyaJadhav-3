@@ -1,5 +1,18 @@
-```md id="tv17b2"
+```md id="8v1n3o"
 <img src="img.png" width="100%">
+
+<h1 align="center">Hi 👋, I'm Shreya Jadhav</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;Computer+Engineering+Student;Backend+Developer;Problem+Solver" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShreyaJadhav-3&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-64f6-4d82-9d9c-701d7f3f5e48.gif" width="100%">
+
 
 # ✨ About Me
 
@@ -12,7 +25,7 @@ I have worked on systems like:
 - Smart Department Management System
 - Placement Cell Management System
 
-My areas of interest include:
+My areas of expertise and interest include:
 - Full Stack Web Development
 - Backend Development
 - Artificial Intelligence
@@ -24,85 +37,146 @@ I actively participate in hackathons, technical events, and collaborative projec
 Beyond technology, I enjoy organizing events, dancing, and exploring creative ideas.
 
 
-# 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreyuuu_5835/?hl=en)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-jadhav-a5816a246)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreya7036@gmail.com)
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-64f6-4d82-9d9c-701d7f3f5e48.gif" width="100%">
 
 
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreya-jadhav-a5816a246">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:shreya7036@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://www.instagram.com/shreyuuu_5835/?hl=en">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-64f6-4d82-9d9c-701d7f3f5e48.gif" width="100%">
+
+
+```md id="33ehry"
+```md id="q1yeh3"
 # 🛠️ Tech Stack
 
-## 👨‍💻 Languages
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=r" />
+  </a>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
 
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
 
-## 🌐 Frontend
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
 
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
 
-## ⚙️ Backend
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
 
-## 🗄️ Database
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+</p>
+```
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🛠️ Tools & Platforms
 
-
-## 🤖 AI & Data Science
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+```
 
 
 ## 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-64f6-4d82-9d9c-701d7f3f5e48.gif" width="100%">
 
 
 # 📈 GitHub Stats
@@ -121,24 +195,50 @@ Beyond technology, I enjoy organizing events, dancing, and exploring creative id
 </p>
 
 
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-64f6-4d82-9d9c-701d7f3f5e48.gif" width="100%">
+
+
 # 📊 Coding Profiles
 
-Actively practicing Data Structures and Algorithms on LeetCode and CodeChef to strengthen problem-solving and algorithmic thinking.
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Shreya_Jadhav_&theme=dark" />
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Shreya_Jadhav_/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/shreya_j_7036">
+  <img src="https://img.shields.io/badge/CodeChef-View%20Profile-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
 
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shreya_Jadhav_/)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-View%20Profile-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shreya_j_7036)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_USERNAME/)
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-64f6-4d82-9d9c-701d7f3f5e48.gif" width="100%">
 
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ShreyaJadhav-3&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShreyaJadhav-3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-64f6-4d82-9d9c-701d7f3f5e48.gif" width="100%">
 
 
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 ```
